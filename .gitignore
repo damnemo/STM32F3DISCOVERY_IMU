@@ -1,0 +1,5 @@
+# file e cartelle da escludere
+---------------------------------------------
+
+/Firmware/EWARM/Demo
+/Software/fake_serial
